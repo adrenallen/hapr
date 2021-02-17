@@ -1,0 +1,1 @@
+drop table interested_people_emails;

@@ -1,0 +1,8 @@
+models/kallax.go*
+.idea
+\.idea/*
+devfiles
+debug
+config.json
+certs/*
+.vscode

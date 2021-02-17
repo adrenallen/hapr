@@ -1,0 +1,26 @@
+{
+    "email":{
+        "user" : "",
+        "key": ""
+    },
+    "db":{
+        "server": "",
+        "port": "",
+        "user":"",
+        "pass":"",
+        "version": "1",
+        "migrations_folder": "/full/path/to/migrations/folder",
+        "encryption_key": "specialKeyGoesHere"        
+    },
+    "web":{
+        "port":"",
+        "url":"http://app.hapr.io",
+        "ssl": {
+            "key": "/full/path/to/server.key",
+            "cert": "/full/path/to/server.crt"
+        }
+    },
+    "support":{
+        "feedback_email": ""
+    }
+}
